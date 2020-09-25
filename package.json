@@ -2,9 +2,9 @@
   "name": "app-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "aplicativo.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/aplicativo.js"
   },
   "keywords": [],
   "author": "",
